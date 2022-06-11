@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-goodwillauth-dev-164746-authRole",
+      "UnauthRoleArn": "arn:aws:iam::303767752022:role/amplify-goodwillauth-dev-164746-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::303767752022:role/amplify-goodwillauth-dev-164746-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-goodwillauth-dev-164746-deployment",
+      "UnauthRoleName": "amplify-goodwillauth-dev-164746-unauthRole",
+      "StackName": "amplify-goodwillauth-dev-164746",
+      "StackId": "arn:aws:cloudformation:us-east-1:303767752022:stack/amplify-goodwillauth-dev-164746/22e96070-e978-11ec-99df-0a1ab21c5e57",
+      "AmplifyAppId": "d2e8i2l5dm59mw"
+    }
+  }
+}
